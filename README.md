@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📚 Pursing Master's in Computer Science at [california state university Long Beach](https://drive.google.com/file/d/1Qx4YGZ4RkYu2tACBKna6RcOwexLpPAn8/view?usp=sharing)
+- 📚 Pursing Master's in Computer Science at **california state university Long Beach**
 
 - 🌱 I’m currently learning **Data Structure Algo**
+
+- 📄 Resume [https://drive.google.com/file/d/1Qx4YGZ4RkYu2tACBKna6RcOwexLpPAn8/view?usp=sharing](https://drive.google.com/file/d/1Qx4YGZ4RkYu2tACBKna6RcOwexLpPAn8/view?usp=sharing)
 
 - 🤝 I’m Actively looking for **Summer-Intern/Full-time 2024 positions**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdsaqlain538](https://github.com/mdsaqlain538)
 
 - 📫 How to reach me **saqlain.patel.md@gmail.com**
-
-- 📄 Resume [https://drive.google.com/file/d/1Qx4YGZ4RkYu2tACBKna6RcOwexLpPAn8/view?usp=sharing](https://drive.google.com/file/d/1Qx4YGZ4RkYu2tACBKna6RcOwexLpPAn8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsaqlain538&show_icons=true&locale=en" alt="mdsaqlain538" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsaqlain538&" alt="mdsaqlain538" /></p>
-
