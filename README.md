@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saqlain-Mohammed</h1>
 <h3 align="center">A passionate Backend developer</h3>
-<img aligh="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&tbm=isch&ved=2ahUKEwjjmpOQ79yFAxVeOUQIHUJmArgQ2-cCegQIABAA&oq=animated+coding+gif&gs_lp=EgNpbWciE2FuaW1hdGVkIGNvZGluZyBnaWYyBBAjGCcyBBAjGCcyBRAAGIAEMgUQABiABDIGEAAYCBgeMgYQABgIGB4yBxAAGIAEGBgyBxAAGIAEGBgyBxAAGIAEGBgyBxAAGIAEGBhIzgFQAFgAcAB4AJABAJgBM6ABM6oBATG4AQPIAQD4AQGKAgtnd3Mtd2l6LWltZ4gGAQ&sclient=img&ei=qgkqZuOdOt7ykPIPwsyJwAs&bih=993&biw=1920&prmd=ivnbmtz#imgrc=ZmOH4FBlhx83-M">
+<img aligh="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsaqlain538&label=Profile%20views&color=0e75b6&style=flat" alt="mdsaqlain538" /> </p>
 
