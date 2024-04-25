@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-saqlain-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-saqlain-patel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-saqlain-patel" target="blank"><img style="margin-bottom: 10" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-saqlain-patel" height="30" width="40" /></a>
 <a href="https://instagram.com/saqlain_mohammed_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saqlain_mohammed_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user1701aw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user1701aw" height="30" width="40" /></a>
 <a href="https://discord.gg/mad_max" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mad_max" height="30" width="40" /></a>
