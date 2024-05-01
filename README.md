@@ -20,8 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsaqlain538&show_icons=true&locale=en&layout=compact" alt="mdsaqlain538" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsaqlain538&show_icons=true&locale=en" alt="mdsaqlain538" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsaqlain538&" alt="mdsaqlain538" /></p>
-
----
-[![](https://visitcount.itsvg.in/api?id=mdsaqlain538&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
