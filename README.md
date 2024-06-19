@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saqlain-Mohammed</h1>
 <h3 align="center">A passionate Backend developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsaqlain538&label=Profile%20views&color=0e75b6&style=flat" alt="mdsaqlain538" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-# 💫 About Me:
+# About Me:
 📚 Pursing Master's in Computer Science at california state university Long Beach<br><br>🌱 I’m currently learning Data Structure Algo<br><br>📄 Resume https://drive.google.com/file/d/1Qx4YGZ4RkYu2tACBKna6RcOwexLpPAn8/view?usp=sharing<br><br>🤝 I’m Actively looking for Summer-Intern/Full-time 2024 positions<br><br>👨‍💻 All of my projects are available at https://github.com/mdsaqlain538<br><br>📫 How to reach me saqlain.patel.md@gmail.com
 
 
