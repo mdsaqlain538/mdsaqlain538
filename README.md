@@ -8,7 +8,7 @@
 📚 Pursing Master's in Computer Science at california state university Long Beach<br><br>🌱 I’m currently learning Data Structure Algo<br><br>📄 Resume https://drive.google.com/file/d/1Qx4YGZ4RkYu2tACBKna6RcOwexLpPAn8/view?usp=sharing<br><br>🤝 I’m Actively looking for Summer-Intern/Full-time 2024 positions<br><br>👨‍💻 All of my projects are available at https://github.com/mdsaqlain538<br><br>📫 How to reach me saqlain.patel.md@gmail.com
 
 
-## Socials:
+## Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saqlain_mohammed_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-saqlain-patel) 
 
 # Tech Stack:
