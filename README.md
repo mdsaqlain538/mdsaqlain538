@@ -4,7 +4,11 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## About Me:
-Pursing Master's in Computer Science at california state university Long Beach<br><br>  I’m currently learning Data Structure Algo<br><br>  Resume https://drive.google.com/file/d/1Qx4YGZ4RkYu2tACBKna6RcOwexLpPAn8/view?usp=sharing<br><br>  I’m Actively looking for Summer-Intern/Full-time 2024 positions<br><br>  All of my projects are available at https://github.com/mdsaqlain538<br><br>  How to reach me saqlain.patel.md@gmail.com
+Pursing Master's in Computer Science at california state university Long Beach <br><br>  
+I’m currently learning Data Structure Algo<br><br>  
+<p><a href="https://drive.google.com/file/d/1Qx4YGZ4RkYu2tACBKna6RcOwexLpPAn8/view?usp=sharing"> </a>Resume </p><br><br>  
+I’m Actively looking for Summer-Intern/Full-time 2024 positions<br><br>  
+All of my projects are available at https://github.com/mdsaqlain538<br><br>  How to reach me saqlain.patel.md@gmail.com
 
 
 ## Connect:
