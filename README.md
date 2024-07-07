@@ -6,7 +6,7 @@
 ## About Me:
 Pursing Master's in Computer Science at california state university Long Beach<br>
 I’m currently learning Data Structure Algo<br>
-Resume https://drive.google.com/file/d/1Qx4YGZ4RkYu2tACBKna6RcOwexLpPAn8/view?usp=sharing<br> 
+Resume https://drive.google.com/file/d/1sLXSb8zen9yu_3uUxVGNRXAJiMXLAEZy/view<br> 
 I’m Actively looking for Summer-Intern/Full-time 2024 positions<br>
 All of my projects are available at https://github.com/mdsaqlain538<br>
 How to reach me saqlain.patel.md@gmail.com
