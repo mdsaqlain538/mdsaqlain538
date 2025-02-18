@@ -1,24 +1,77 @@
-<h1 align="center">Hi 👋, I'm Saqlain-Mohammed</h1>
-<h3 align="center">A passionate Backend developer</h3>
+# Hi! My name is Mohammed Saqlain Patel 👋🏽
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+🎯 Full Stack Developer with 3+ years of experience delivering scalable web applications using Java, React, and Spring Boot. Designed and deployed RESTful APIs and microservices to streamline backend operations, reducing latency by 30%. Automated deployment pipelines using CI/CD tools, cutting release cycles by 40%. Leveraged AWS and GCP to build cloud-native solutions, ensuring high availability and scalability. Containerized applications with Docker and orchestrated with Kubernetes, improving deployment efficiency.
 
-## About Me:
-Pursing Master's in Computer Science at california state university Long Beach<br>
-I’m currently learning Data Structure Algo<br>
-Resume https://drive.google.com/file/d/13Azj-SPjtK7lKagFGe99zTiAoxso0gvD/view<br> 
-I’m Actively looking for Summer-Intern/Full-time 2024 positions<br>
-All of my projects are available at https://github.com/mdsaqlain538<br>
-How to reach me saqlain.patel.md@gmail.com
+## 🛠️ Experience
 
+### 🗣️ **Full Stack Engineer Intern | Flow AI**  
+**Feb 2025 - Present**  
+- Designed and implemented secure server-side features using Python & Django; integrated 20+ APIs from ServiceNow, HubSpot, Zoom, and Salesforce.
+- Optimized CI/CD pipelines, managing Azure infrastructure & product launch with Docker & Kubernetes.
+- Collaborated cross-functionally with Agile practices, enhancing project delivery speed and quality.
 
 
+### 📈 **System Engineer | Tata Consultancy Services, Ltd.**  
+**Mar 2021 - Jan 2023**  
+- Directed end-to-end development of CPD Service, integrating four banking systems into a unified platform. Refined communication and reduced manual dependency by 30%.
+- Engineered RESTful APIs using Spring Boot to handle user data, transactions, and account details.
+- Enhanced system scalability by 35% and reduced response times by 20%, ensuring low-latency and highly scalable systems for multinational corporations.
+- Actively engaged in Agile sprints, collaborating with cross-functional teams to manage Jira tasks, conduct code reviews, and maintain version control using Git/Bitbucket.
+- Collaborated effectively with cross-functional teams to communicate technical requirements, align on project goals, and deliver seamless integration of these features, ensuring a secure and user-friendly application.
 
-## Connect:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saqlain_mohammed_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-saqlain-patel) 
 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsaqlain538&show_icons=true&locale=en&layout=compact" alt="mdsaqlain538" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsaqlain538&" alt="mdsaqlain538" /></p>
+### 🧑🏽‍💻 **Software Developer | Rohini Tech Media Pvt Ltd**  
+**May 2020 - Mar 2021**  
+- Strategized and Collaborated backend solutions by integrating MongoDB and Redis caching, reducing data retrieval times by 35% and enhancing application performance and scalability in a cloud-based environment.
+- Integrated Firebase Authentication, achieving a 25% increase in secure and seamless user login processes, ensuring operational efficiency and world-class application standards.
+- Upgraded secure user authentication using Gmail-OAuth, enhancing system security, and automated email notifications through SendGrid, ensuring timely communication and perfected user experience.
+
+---
+
+## 💡 Core Skills
+
+### **Software Engineering:**  
+- Python, Java, C, C++, C#, AI, Machine Learning, RESTful APIs, DevOps, CI/CD, Containerization, Docker, Kubernetes, Spring, Linux, AWS, Azure, GitHub, Shell Scripting
+
+### **Data Science:**  
+- R, SQL, Business Analytics, Data Models, ETL Design, Data Architecture, Distributed Storage, Spark, MongoDB, Pandas, Tableau, Power BI, Postgres, Excel, Relational Databases
+
+### **Web & Prototype Development:**  
+- UI/UX, React, Node.js, JavaScript, HTML, Flask, Django
+
+### **Automation & Tools:**  
+- Selenium, Postman, Test Automation, Confluence, Web Services, GitHub
+
+### **Soft Skills:**  
+- Collaboration, Communication, Problem-Solving, Adaptability, Customer Service
+
+---
+
+## 🎓 Education
+
+**California State University Long Beach**  
+**Degree:** Master's in Computer Science  
+**Graduated:** Dec 2025  
+- Relevant Coursework: Advance Programming langugage, Advance Algorithms and Data Structure, Advance Software Engineering, Advance Artificial Intelligence, Topics in Distributed Systems, Computer Networks, Search Engine Technology, Advance Computer Architecture and Computer Simulation and Modeling.
+---
+
+## 🏅 Awards & Certifications
+
+- **Certificate Of Merit - Software Hackathon - Face Recognition of Smart Attendance**
+- **Java Certification:** The Complete Java Certification Course  
+
+---
+
+## 🚀 Where I'm Heading
+
+- **Innovate:** I’m eager to leverage my expertise in Software Industry, automation, and data science to develop cutting-edge solutions that solve real-world problems.
+- **Grow:** I aim to stay at the forefront of technology, continuously learning new methodologies and tools.
+- **Contribute:** Excited to collaborate with teams to build impactful software and data-driven solutions that drive business success.
+
+---
+
+## 📫 Contact
+
+- **Email:** [saqlain.patel.md@gmail.com](mailto:saqlain.patel.md@gmail.com)  
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/md-saqlain-patel)  
+- **Project Portfolio:** [Explore my work](https://mohammedsaqlainportfolio.netlify.app/)
