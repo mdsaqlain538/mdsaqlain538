@@ -52,12 +52,12 @@
 **California State University Long Beach**  
 **Degree:** Master's in Computer Science  
 **Graduated:** Dec 2025  
-- Relevant Coursework: Advance Programming langugage, Advance Algorithms and Data Structure, Advance Software Engineering, Advance Artificial Intelligence, Topics in Distributed Systems, Computer Networks, Search Engine Technology, Advance Computer Architecture and Computer Simulation and Modeling.
+- **Relevant Coursework**: Advance Programming langugage, Advance Algorithms and Data Structure, Advance Software Engineering, Advance Artificial Intelligence, Topics in Distributed Systems, Computer Networks, Search Engine Technology, Advance Computer Architecture and Computer Simulation and Modeling.
 ---
 
 ## 🏅 Awards & Certifications
 
-- **Certificate Of Merit - Software Hackathon - Face Recognition of Smart Attendance**
+- **Certificate of Merit - Software Hackathon - Face Recognition of Smart Attendance**
 - **Java Certification:** The Complete Java Certification Course  
 
 ---
