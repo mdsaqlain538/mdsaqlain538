@@ -31,13 +31,13 @@
 ## 💡 Core Skills
 
 ### **Software Engineering:**  
-- Python, Java, C, C++, C#, AI, Machine Learning, RESTful APIs, DevOps, CI/CD, Containerization, Docker, Kubernetes, Spring, Linux, AWS, Azure, GitHub, Shell Scripting
+- Java, C, C++, Python, Spring Boot, Microservices, RESTful APIs, DevOps, CI/CD, Containerization, Docker, Jenkins , Kubernetes, Linux, AWS, Azure, GitHub, Shell Scripting
 
 ### **Data Science:**  
 - R, SQL, Business Analytics, Data Models, ETL Design, Data Architecture, Distributed Storage, Spark, MongoDB, Pandas, Tableau, Power BI, Postgres, Excel, Relational Databases
 
 ### **Web & Prototype Development:**  
-- UI/UX, React, Node.js, JavaScript, HTML, Flask, Django
+- UI/UX, React, Angular, Node.js, JavaScript, HTML, Flask, Django
 
 ### **Automation & Tools:**  
 - Selenium, Postman, Test Automation, Confluence, Web Services, GitHub
