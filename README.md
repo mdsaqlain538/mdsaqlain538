@@ -1,4 +1,4 @@
-# Hi! My name is Mohammed Saqlain Patel 👋🏽
+# Hi! I'm Mohammed Saqlain Patel 👋🏽
 
 🎯 Full Stack Developer with 3+ years of experience delivering scalable web applications using Java, React, and Spring Boot. Designed and deployed RESTful APIs and microservices to streamline backend operations, reducing latency by 30%. Automated deployment pipelines using CI/CD tools, cutting release cycles by 40%. Leveraged AWS and GCP to build cloud-native solutions, ensuring high availability and scalability. Containerized applications with Docker and orchestrated with Kubernetes, improving deployment efficiency.
 
