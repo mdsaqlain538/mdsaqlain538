@@ -21,7 +21,7 @@
 
 
 ### 🧑🏽‍💻 **Software Developer | Rohini Tech Media Pvt Ltd**  
-**May 2020 - Mar 2021**  
+**Feb 2019 - Mar 2021**  
 - Strategized and Collaborated backend solutions by integrating MongoDB and Redis caching, reducing data retrieval times by 35% and enhancing application performance and scalability in a cloud-based environment.
 - Integrated Firebase Authentication, achieving a 25% increase in secure and seamless user login processes, ensuring operational efficiency and world-class application standards.
 - Upgraded secure user authentication using Gmail-OAuth, enhancing system security, and automated email notifications through SendGrid, ensuring timely communication and perfected user experience.
