@@ -51,7 +51,7 @@
 
 **California State University Long Beach**  
 **Degree:** Master's in Computer Science  
-**Graduated:** Dec 2025  
+**Graduated:** Dec 2024  
 - **Relevant Coursework**: Advance Programming langugage, Advance Algorithms and Data Structure, Advance Software Engineering, Advance Artificial Intelligence, Topics in Distributed Systems, Computer Networks, Search Engine Technology, Advance Computer Architecture and Computer Simulation and Modeling.
 ---
 
