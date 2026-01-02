@@ -1,14 +1,14 @@
 # Hi! I'm Mohammed Saqlain Patel 👋🏻
 
-🎯 Full Stack Developer with 3+ years of experience delivering scalable web applications using Java, React, and Spring Boot. Designed and deployed RESTful APIs and microservices to streamline backend operations, reducing latency by 30%. Automated deployment pipelines using CI/CD tools, cutting release cycles by 40%. Leveraged AWS and GCP to build cloud-native solutions, ensuring high availability and scalability. Containerized applications with Docker and orchestrated with Kubernetes, improving deployment efficiency.
+🎯 Full Stack Developer with 4+ years of experience delivering scalable web applications using Java, React, and Spring Boot. Designed and deployed RESTful APIs and microservices to streamline backend operations, reducing latency by 30%. Automated deployment pipelines using CI/CD tools, cutting release cycles by 40%. Leveraged AWS and GCP to build cloud-native solutions, ensuring high availability and scalability. Containerized applications with Docker and orchestrated with Kubernetes, improving deployment efficiency.
 
 ## 🛠️ Experience
 
-### 🗣️ **Full Stack Engineer Intern | Flow AI**  
-**Feb 2025 - Present**  
-- Designed and implemented secure server-side features using Python & Django; integrated 20+ APIs from ServiceNow, HubSpot, Zoom, and Salesforce.
-- Optimized CI/CD pipelines, managing Azure infrastructure & product launch with Docker & Kubernetes.
-- Collaborated cross-functionally with Agile practices, enhancing project delivery speed and quality.
+### 🗣️ **Walmart Global Tech | Backend Developer**  
+**Sept 2025 - Present**  
+- Led the end-to-end migration of a large-scale enterprise application from Java 8 to Java 17, modernizing core libraries, refactoring deprecated APIs, and enabling long-term platform support, resulting in a 28% improvement in runtime performance and enhanced maintainability.
+- Led the CCM (Configuration & Content Management) migration by consolidating legacy configuration files (XML/JSON/YAML) into Walmart’s centralized config platform, standardizing service configurations across 40+ microservices and reducing config-related deployment failures by 35%.
+- Collaborated with platform and security teams to triage Snyk-reported vulnerabilities, execute dependency upgrades, apply secure patches, and refactor risky components—removing 150+ high-risk vulnerabilities across multiple services.
 
 
 ### 📈 **System Engineer | Tata Consultancy Services, Ltd.**  
@@ -19,32 +19,6 @@
 - Actively engaged in Agile sprints, collaborating with cross-functional teams to manage Jira tasks, conduct code reviews, and maintain version control using Git/Bitbucket.
 - Collaborated effectively with cross-functional teams to communicate technical requirements, align on project goals, and deliver seamless integration of these features, ensuring a secure and user-friendly application.
 
-
-### 🧑🏽‍💻 **Software Developer | Rohini Tech Media Pvt Ltd**  
-**May 2019 - Mar 2021**  
-- Strategized and Collaborated backend solutions by integrating MongoDB and Redis caching, reducing data retrieval times by 35% and enhancing application performance and scalability in a cloud-based environment.
-- Integrated Firebase Authentication, achieving a 25% increase in secure and seamless user login processes, ensuring operational efficiency and world-class application standards.
-- Upgraded secure user authentication using Gmail-OAuth, enhancing system security, and automated email notifications through SendGrid, ensuring timely communication and perfected user experience.
-
----
-
-## 💡 Core Skills
-
-### **Software Engineering:**  
-- Java, C, C++, Python, Spring Boot, Microservices, RESTful APIs, DevOps, CI/CD, Containerization, Docker, Jenkins , Kubernetes, Linux, AWS, Azure, GitHub, Shell Scripting
-
-### **Data Science:**  
-- R, SQL, Business Analytics, Data Models, ETL Design, Data Architecture, Distributed Storage, Spark, MongoDB, Pandas, Tableau, Power BI, Postgres, Excel, Relational Databases
-
-### **Web & Prototype Development:**  
-- UI/UX, React, Angular, Node.js, JavaScript, HTML, Flask, Django
-
-### **Automation & Tools:**  
-- Selenium, Postman, Test Automation, Confluence, Web Services, GitHub
-
-### **Soft Skills:**  
-- Collaboration, Communication, Problem-Solving, Adaptability, Customer Service
-
 ---
 
 ## 🎓 Education
@@ -52,21 +26,6 @@
 **California State University Long Beach**  
 **Degree:** Master's in Computer Science  
 **Graduated:** Dec 2024  
-- **Relevant Coursework**: Advance Programming langugage, Advance Algorithms and Data Structure, Advance Software Engineering, Advance Artificial Intelligence, Topics in Distributed Systems, Computer Networks, Search Engine Technology, Advance Computer Architecture and Computer Simulation and Modeling.
----
-
-## 🏅 Awards & Certifications
-
-- **Certificate of Merit - Software Hackathon - Face Recognition of Smart Attendance**
-- **Java Certification:** The Complete Java Certification Course  
-
----
-
-## 🚀 Where I'm Heading
-
-- **Innovate:** I’m eager to leverage my expertise in Software Industry, automation, and data science to develop cutting-edge solutions that solve real-world problems.
-- **Grow:** I aim to stay at the forefront of technology, continuously learning new methodologies and tools.
-- **Contribute:** Excited to collaborate with teams to build impactful software and data-driven solutions that drive business success.
 
 ---
 
