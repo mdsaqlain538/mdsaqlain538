@@ -4,7 +4,7 @@
 
 ## 🛠️ Experience
 
-### 🗣️ **Walmart Global Tech | Backend Developer**  
+### 🌟 **Walmart Global Tech | Backend Developer**  
 **Sept 2025 - Present**  
 - Led the end-to-end migration of a large-scale enterprise application from Java 8 to Java 17, modernizing core libraries, refactoring deprecated APIs, and enabling long-term platform support, resulting in a 28% improvement in runtime performance and enhanced maintainability.
 - Led the CCM (Configuration & Content Management) migration by consolidating legacy configuration files (XML/JSON/YAML) into Walmart’s centralized config platform, standardizing service configurations across 40+ microservices and reducing config-related deployment failures by 35%.
