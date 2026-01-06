@@ -11,7 +11,7 @@
 - Collaborated with platform and security teams to triage Snyk-reported vulnerabilities, execute dependency upgrades, apply secure patches, and refactor risky components—removing 150+ high-risk vulnerabilities across multiple services.
 
 
-### 📈 **System Engineer | Tata Consultancy Services, Ltd.**  
+### 📈 **Tata Consultancy Services, Ltd | System Engineer**  
 **Mar 2021 - Jan 2023**  
 - Directed end-to-end development of CPD Service, integrating four banking systems into a unified platform. Refined communication and reduced manual dependency by 30%.
 - Engineered RESTful APIs using Spring Boot to handle user data, transactions, and account details.
