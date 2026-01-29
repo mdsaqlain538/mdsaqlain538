@@ -29,3 +29,10 @@ Full Stack Developer with 4+ years of experience delivering scalable web applica
 - **Email:** [saqlain.patel.md@gmail.com](mailto:saqlain.patel.md@gmail.com)  
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/md-saqlain-patel)  
 - **Project Portfolio:** [Explore my work](https://mohammedsaqlainportfolio.netlify.app/)
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdsaqlain538)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mdsaqlain538&count_private=true&include_all_commits=true)
+![Streak](https://streak-stats.demolab.com?user=mdsaqlain538)
+
