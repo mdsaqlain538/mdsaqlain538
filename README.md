@@ -31,13 +31,11 @@ Full Stack Developer with 4+ years of experience delivering scalable web applica
 - **Project Portfolio:** [Explore my work](https://mohammedsaqlainportfolio.netlify.app/)
 
 
+<br>
+
+
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=mdsaqlain538)
+
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdsaqlain538&bg_color=ffffff&color=6e6e6e&line=9e9e9e&point=bdbdbd&area_color=e0e0e0&area=true&hide_border=true)
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsaqlain538&count_private=true&include_all_commits=true&hide_border=true" width="380" />
-  <img src="https://streak-stats.demolab.com?user=mdsaqlain538" width="380" />
-</p>
-
 
