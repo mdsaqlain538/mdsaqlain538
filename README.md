@@ -7,4 +7,4 @@ Java Backend Developer with 4+ YOE currently at Walmart Global Tech, Sunnyvale, 
 **Personal Portfolio**: [Link](https://mohammedsaqlainportfolio.netlify.app/)
 <br>
 <br>
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=mdsaqlain538)
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mdsaqlain538" width="350"/>
